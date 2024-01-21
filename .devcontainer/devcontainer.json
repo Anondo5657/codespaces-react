@@ -14,6 +14,12 @@
       "openFiles": [
         "src/App.js"
       ]
+    },
+    "vscode": {
+      "extensions": [
+        "xabikos.JavaScriptSnippets",
+        "ms-python.python"
+      ]
     }
   },
   "portsAttributes": {
